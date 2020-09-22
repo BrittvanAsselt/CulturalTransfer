@@ -19,13 +19,9 @@ body, pre, pre code {
   font-size: 18px;
 }
 
-a, a:visited {
-  color: #48820f;
-}
-
 h1, h2 {
   display: inline-block;
-  border-bottom-style: dotted;
+  border-bottom-style: double;
   border-bottom-color: #48820f;
 }
 
